@@ -1,0 +1,2104 @@
+{
+  "agents": [
+    {
+      "id": 1,
+      "name": "Agent1",
+      "file": "agent_1.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 2,
+      "name": "Agent2",
+      "file": "agent_2.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 3,
+      "name": "Agent3",
+      "file": "agent_3.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 4,
+      "name": "Agent4",
+      "file": "agent_4.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 5,
+      "name": "Agent5",
+      "file": "agent_5.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 6,
+      "name": "Agent6",
+      "file": "agent_6.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 7,
+      "name": "Agent7",
+      "file": "agent_7.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 8,
+      "name": "Agent8",
+      "file": "agent_8.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 9,
+      "name": "Agent9",
+      "file": "agent_9.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 10,
+      "name": "Agent10",
+      "file": "agent_10.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 11,
+      "name": "Agent11",
+      "file": "agent_11.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 12,
+      "name": "Agent12",
+      "file": "agent_12.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 13,
+      "name": "Agent13",
+      "file": "agent_13.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 14,
+      "name": "Agent14",
+      "file": "agent_14.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 15,
+      "name": "Agent15",
+      "file": "agent_15.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 16,
+      "name": "Agent16",
+      "file": "agent_16.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 17,
+      "name": "Agent17",
+      "file": "agent_17.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 18,
+      "name": "Agent18",
+      "file": "agent_18.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 19,
+      "name": "Agent19",
+      "file": "agent_19.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 20,
+      "name": "Agent20",
+      "file": "agent_20.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 21,
+      "name": "Agent21",
+      "file": "agent_21.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 22,
+      "name": "Agent22",
+      "file": "agent_22.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 23,
+      "name": "Agent23",
+      "file": "agent_23.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 24,
+      "name": "Agent24",
+      "file": "agent_24.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 25,
+      "name": "Agent25",
+      "file": "agent_25.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 26,
+      "name": "Agent26",
+      "file": "agent_26.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 27,
+      "name": "Agent27",
+      "file": "agent_27.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 28,
+      "name": "Agent28",
+      "file": "agent_28.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 29,
+      "name": "Agent29",
+      "file": "agent_29.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 30,
+      "name": "Agent30",
+      "file": "agent_30.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 31,
+      "name": "Agent31",
+      "file": "agent_31.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 32,
+      "name": "Agent32",
+      "file": "agent_32.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 33,
+      "name": "Agent33",
+      "file": "agent_33.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 34,
+      "name": "Agent34",
+      "file": "agent_34.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 35,
+      "name": "Agent35",
+      "file": "agent_35.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 36,
+      "name": "Agent36",
+      "file": "agent_36.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 37,
+      "name": "Agent37",
+      "file": "agent_37.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 38,
+      "name": "Agent38",
+      "file": "agent_38.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 39,
+      "name": "Agent39",
+      "file": "agent_39.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 40,
+      "name": "Agent40",
+      "file": "agent_40.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 41,
+      "name": "Agent41",
+      "file": "agent_41.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 42,
+      "name": "Agent42",
+      "file": "agent_42.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 43,
+      "name": "Agent43",
+      "file": "agent_43.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 44,
+      "name": "Agent44",
+      "file": "agent_44.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 45,
+      "name": "Agent45",
+      "file": "agent_45.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 46,
+      "name": "Agent46",
+      "file": "agent_46.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 47,
+      "name": "Agent47",
+      "file": "agent_47.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 48,
+      "name": "Agent48",
+      "file": "agent_48.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 49,
+      "name": "Agent49",
+      "file": "agent_49.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 50,
+      "name": "Agent50",
+      "file": "agent_50.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 51,
+      "name": "Agent51",
+      "file": "agent_51.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 52,
+      "name": "Agent52",
+      "file": "agent_52.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 53,
+      "name": "Agent53",
+      "file": "agent_53.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 54,
+      "name": "Agent54",
+      "file": "agent_54.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 55,
+      "name": "Agent55",
+      "file": "agent_55.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 56,
+      "name": "Agent56",
+      "file": "agent_56.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 57,
+      "name": "Agent57",
+      "file": "agent_57.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 58,
+      "name": "Agent58",
+      "file": "agent_58.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 59,
+      "name": "Agent59",
+      "file": "agent_59.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 60,
+      "name": "Agent60",
+      "file": "agent_60.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 61,
+      "name": "Agent61",
+      "file": "agent_61.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 62,
+      "name": "Agent62",
+      "file": "agent_62.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 63,
+      "name": "Agent63",
+      "file": "agent_63.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 64,
+      "name": "Agent64",
+      "file": "agent_64.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 65,
+      "name": "Agent65",
+      "file": "agent_65.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 66,
+      "name": "Agent66",
+      "file": "agent_66.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 67,
+      "name": "Agent67",
+      "file": "agent_67.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 68,
+      "name": "Agent68",
+      "file": "agent_68.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 69,
+      "name": "Agent69",
+      "file": "agent_69.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 70,
+      "name": "Agent70",
+      "file": "agent_70.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 71,
+      "name": "Agent71",
+      "file": "agent_71.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 72,
+      "name": "Agent72",
+      "file": "agent_72.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 73,
+      "name": "Agent73",
+      "file": "agent_73.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 74,
+      "name": "Agent74",
+      "file": "agent_74.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 75,
+      "name": "Agent75",
+      "file": "agent_75.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 76,
+      "name": "Agent76",
+      "file": "agent_76.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 77,
+      "name": "Agent77",
+      "file": "agent_77.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 78,
+      "name": "Agent78",
+      "file": "agent_78.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 79,
+      "name": "Agent79",
+      "file": "agent_79.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 80,
+      "name": "Agent80",
+      "file": "agent_80.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 81,
+      "name": "Agent81",
+      "file": "agent_81.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 82,
+      "name": "Agent82",
+      "file": "agent_82.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 83,
+      "name": "Agent83",
+      "file": "agent_83.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 84,
+      "name": "Agent84",
+      "file": "agent_84.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 85,
+      "name": "Agent85",
+      "file": "agent_85.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 86,
+      "name": "Agent86",
+      "file": "agent_86.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 87,
+      "name": "Agent87",
+      "file": "agent_87.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 88,
+      "name": "Agent88",
+      "file": "agent_88.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 89,
+      "name": "Agent89",
+      "file": "agent_89.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 90,
+      "name": "Agent90",
+      "file": "agent_90.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 91,
+      "name": "Agent91",
+      "file": "agent_91.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 92,
+      "name": "Agent92",
+      "file": "agent_92.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 93,
+      "name": "Agent93",
+      "file": "agent_93.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 94,
+      "name": "Agent94",
+      "file": "agent_94.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 95,
+      "name": "Agent95",
+      "file": "agent_95.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 96,
+      "name": "Agent96",
+      "file": "agent_96.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 97,
+      "name": "Agent97",
+      "file": "agent_97.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 98,
+      "name": "Agent98",
+      "file": "agent_98.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 99,
+      "name": "Agent99",
+      "file": "agent_99.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 100,
+      "name": "Agent100",
+      "file": "agent_100.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 101,
+      "name": "Agent101",
+      "file": "agent_101.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 102,
+      "name": "Agent102",
+      "file": "agent_102.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 103,
+      "name": "Agent103",
+      "file": "agent_103.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 104,
+      "name": "Agent104",
+      "file": "agent_104.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 105,
+      "name": "Agent105",
+      "file": "agent_105.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 106,
+      "name": "Agent106",
+      "file": "agent_106.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 107,
+      "name": "Agent107",
+      "file": "agent_107.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 108,
+      "name": "Agent108",
+      "file": "agent_108.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 109,
+      "name": "Agent109",
+      "file": "agent_109.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 110,
+      "name": "Agent110",
+      "file": "agent_110.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 111,
+      "name": "Agent111",
+      "file": "agent_111.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 112,
+      "name": "Agent112",
+      "file": "agent_112.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 113,
+      "name": "Agent113",
+      "file": "agent_113.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 114,
+      "name": "Agent114",
+      "file": "agent_114.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 115,
+      "name": "Agent115",
+      "file": "agent_115.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 116,
+      "name": "Agent116",
+      "file": "agent_116.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 117,
+      "name": "Agent117",
+      "file": "agent_117.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 118,
+      "name": "Agent118",
+      "file": "agent_118.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 119,
+      "name": "Agent119",
+      "file": "agent_119.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 120,
+      "name": "Agent120",
+      "file": "agent_120.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 121,
+      "name": "Agent121",
+      "file": "agent_121.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 122,
+      "name": "Agent122",
+      "file": "agent_122.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 123,
+      "name": "Agent123",
+      "file": "agent_123.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 124,
+      "name": "Agent124",
+      "file": "agent_124.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 125,
+      "name": "Agent125",
+      "file": "agent_125.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 126,
+      "name": "Agent126",
+      "file": "agent_126.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 127,
+      "name": "Agent127",
+      "file": "agent_127.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 128,
+      "name": "Agent128",
+      "file": "agent_128.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 129,
+      "name": "Agent129",
+      "file": "agent_129.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 130,
+      "name": "Agent130",
+      "file": "agent_130.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 131,
+      "name": "Agent131",
+      "file": "agent_131.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 132,
+      "name": "Agent132",
+      "file": "agent_132.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 133,
+      "name": "Agent133",
+      "file": "agent_133.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 134,
+      "name": "Agent134",
+      "file": "agent_134.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 135,
+      "name": "Agent135",
+      "file": "agent_135.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 136,
+      "name": "Agent136",
+      "file": "agent_136.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 137,
+      "name": "Agent137",
+      "file": "agent_137.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 138,
+      "name": "Agent138",
+      "file": "agent_138.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 139,
+      "name": "Agent139",
+      "file": "agent_139.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 140,
+      "name": "Agent140",
+      "file": "agent_140.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 141,
+      "name": "Agent141",
+      "file": "agent_141.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 142,
+      "name": "Agent142",
+      "file": "agent_142.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 143,
+      "name": "Agent143",
+      "file": "agent_143.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 144,
+      "name": "Agent144",
+      "file": "agent_144.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 145,
+      "name": "Agent145",
+      "file": "agent_145.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 146,
+      "name": "Agent146",
+      "file": "agent_146.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 147,
+      "name": "Agent147",
+      "file": "agent_147.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 148,
+      "name": "Agent148",
+      "file": "agent_148.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 149,
+      "name": "Agent149",
+      "file": "agent_149.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 150,
+      "name": "Agent150",
+      "file": "agent_150.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 151,
+      "name": "Agent151",
+      "file": "agent_151.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 152,
+      "name": "Agent152",
+      "file": "agent_152.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 153,
+      "name": "Agent153",
+      "file": "agent_153.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 154,
+      "name": "Agent154",
+      "file": "agent_154.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 155,
+      "name": "Agent155",
+      "file": "agent_155.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 156,
+      "name": "Agent156",
+      "file": "agent_156.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 157,
+      "name": "Agent157",
+      "file": "agent_157.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 158,
+      "name": "Agent158",
+      "file": "agent_158.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 159,
+      "name": "Agent159",
+      "file": "agent_159.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 160,
+      "name": "Agent160",
+      "file": "agent_160.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 161,
+      "name": "Agent161",
+      "file": "agent_161.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 162,
+      "name": "Agent162",
+      "file": "agent_162.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 163,
+      "name": "Agent163",
+      "file": "agent_163.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 164,
+      "name": "Agent164",
+      "file": "agent_164.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 165,
+      "name": "Agent165",
+      "file": "agent_165.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 166,
+      "name": "Agent166",
+      "file": "agent_166.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 167,
+      "name": "Agent167",
+      "file": "agent_167.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 168,
+      "name": "Agent168",
+      "file": "agent_168.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 169,
+      "name": "Agent169",
+      "file": "agent_169.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 170,
+      "name": "Agent170",
+      "file": "agent_170.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 171,
+      "name": "Agent171",
+      "file": "agent_171.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 172,
+      "name": "Agent172",
+      "file": "agent_172.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 173,
+      "name": "Agent173",
+      "file": "agent_173.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 174,
+      "name": "Agent174",
+      "file": "agent_174.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 175,
+      "name": "Agent175",
+      "file": "agent_175.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 176,
+      "name": "Agent176",
+      "file": "agent_176.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 177,
+      "name": "Agent177",
+      "file": "agent_177.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 178,
+      "name": "Agent178",
+      "file": "agent_178.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 179,
+      "name": "Agent179",
+      "file": "agent_179.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 180,
+      "name": "Agent180",
+      "file": "agent_180.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 181,
+      "name": "Agent181",
+      "file": "agent_181.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 182,
+      "name": "Agent182",
+      "file": "agent_182.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 183,
+      "name": "Agent183",
+      "file": "agent_183.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 184,
+      "name": "Agent184",
+      "file": "agent_184.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 185,
+      "name": "Agent185",
+      "file": "agent_185.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 186,
+      "name": "Agent186",
+      "file": "agent_186.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 187,
+      "name": "Agent187",
+      "file": "agent_187.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 188,
+      "name": "Agent188",
+      "file": "agent_188.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 189,
+      "name": "Agent189",
+      "file": "agent_189.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 190,
+      "name": "Agent190",
+      "file": "agent_190.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 191,
+      "name": "Agent191",
+      "file": "agent_191.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 192,
+      "name": "Agent192",
+      "file": "agent_192.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 193,
+      "name": "Agent193",
+      "file": "agent_193.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 194,
+      "name": "Agent194",
+      "file": "agent_194.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 195,
+      "name": "Agent195",
+      "file": "agent_195.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 196,
+      "name": "Agent196",
+      "file": "agent_196.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 197,
+      "name": "Agent197",
+      "file": "agent_197.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 198,
+      "name": "Agent198",
+      "file": "agent_198.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 199,
+      "name": "Agent199",
+      "file": "agent_199.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 200,
+      "name": "Agent200",
+      "file": "agent_200.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 201,
+      "name": "Agent201",
+      "file": "agent_201.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 202,
+      "name": "Agent202",
+      "file": "agent_202.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 203,
+      "name": "Agent203",
+      "file": "agent_203.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 204,
+      "name": "Agent204",
+      "file": "agent_204.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 205,
+      "name": "Agent205",
+      "file": "agent_205.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 206,
+      "name": "Agent206",
+      "file": "agent_206.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 207,
+      "name": "Agent207",
+      "file": "agent_207.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 208,
+      "name": "Agent208",
+      "file": "agent_208.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 209,
+      "name": "Agent209",
+      "file": "agent_209.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 210,
+      "name": "Agent210",
+      "file": "agent_210.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 211,
+      "name": "Agent211",
+      "file": "agent_211.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 212,
+      "name": "Agent212",
+      "file": "agent_212.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 213,
+      "name": "Agent213",
+      "file": "agent_213.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 214,
+      "name": "Agent214",
+      "file": "agent_214.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 215,
+      "name": "Agent215",
+      "file": "agent_215.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 216,
+      "name": "Agent216",
+      "file": "agent_216.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 217,
+      "name": "Agent217",
+      "file": "agent_217.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 218,
+      "name": "Agent218",
+      "file": "agent_218.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 219,
+      "name": "Agent219",
+      "file": "agent_219.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 220,
+      "name": "Agent220",
+      "file": "agent_220.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 221,
+      "name": "Agent221",
+      "file": "agent_221.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 222,
+      "name": "Agent222",
+      "file": "agent_222.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 223,
+      "name": "Agent223",
+      "file": "agent_223.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 224,
+      "name": "Agent224",
+      "file": "agent_224.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 225,
+      "name": "Agent225",
+      "file": "agent_225.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 226,
+      "name": "Agent226",
+      "file": "agent_226.py",
+      "strategy": "hedge",
+      "risk": "high"
+    },
+    {
+      "id": 227,
+      "name": "Agent227",
+      "file": "agent_227.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 228,
+      "name": "Agent228",
+      "file": "agent_228.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 229,
+      "name": "Agent229",
+      "file": "agent_229.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 230,
+      "name": "Agent230",
+      "file": "agent_230.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 231,
+      "name": "Agent231",
+      "file": "agent_231.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 232,
+      "name": "Agent232",
+      "file": "agent_232.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 233,
+      "name": "Agent233",
+      "file": "agent_233.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 234,
+      "name": "Agent234",
+      "file": "agent_234.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 235,
+      "name": "Agent235",
+      "file": "agent_235.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 236,
+      "name": "Agent236",
+      "file": "agent_236.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 237,
+      "name": "Agent237",
+      "file": "agent_237.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 238,
+      "name": "Agent238",
+      "file": "agent_238.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 239,
+      "name": "Agent239",
+      "file": "agent_239.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 240,
+      "name": "Agent240",
+      "file": "agent_240.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 241,
+      "name": "Agent241",
+      "file": "agent_241.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 242,
+      "name": "Agent242",
+      "file": "agent_242.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 243,
+      "name": "Agent243",
+      "file": "agent_243.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 244,
+      "name": "Agent244",
+      "file": "agent_244.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 245,
+      "name": "Agent245",
+      "file": "agent_245.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 246,
+      "name": "Agent246",
+      "file": "agent_246.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 247,
+      "name": "Agent247",
+      "file": "agent_247.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 248,
+      "name": "Agent248",
+      "file": "agent_248.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 249,
+      "name": "Agent249",
+      "file": "agent_249.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 250,
+      "name": "Agent250",
+      "file": "agent_250.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 251,
+      "name": "Agent251",
+      "file": "agent_251.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 252,
+      "name": "Agent252",
+      "file": "agent_252.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 253,
+      "name": "Agent253",
+      "file": "agent_253.py",
+      "strategy": "copy",
+      "risk": "medium"
+    },
+    {
+      "id": 254,
+      "name": "Agent254",
+      "file": "agent_254.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 255,
+      "name": "Agent255",
+      "file": "agent_255.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 256,
+      "name": "Agent256",
+      "file": "agent_256.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 257,
+      "name": "Agent257",
+      "file": "agent_257.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 258,
+      "name": "Agent258",
+      "file": "agent_258.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 259,
+      "name": "Agent259",
+      "file": "agent_259.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 260,
+      "name": "Agent260",
+      "file": "agent_260.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 261,
+      "name": "Agent261",
+      "file": "agent_261.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 262,
+      "name": "Agent262",
+      "file": "agent_262.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 263,
+      "name": "Agent263",
+      "file": "agent_263.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 264,
+      "name": "Agent264",
+      "file": "agent_264.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 265,
+      "name": "Agent265",
+      "file": "agent_265.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 266,
+      "name": "Agent266",
+      "file": "agent_266.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 267,
+      "name": "Agent267",
+      "file": "agent_267.py",
+      "strategy": "neutral",
+      "risk": "high"
+    },
+    {
+      "id": 268,
+      "name": "Agent268",
+      "file": "agent_268.py",
+      "strategy": "copy",
+      "risk": "high"
+    },
+    {
+      "id": 269,
+      "name": "Agent269",
+      "file": "agent_269.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 270,
+      "name": "Agent270",
+      "file": "agent_270.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 271,
+      "name": "Agent271",
+      "file": "agent_271.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 272,
+      "name": "Agent272",
+      "file": "agent_272.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 273,
+      "name": "Agent273",
+      "file": "agent_273.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 274,
+      "name": "Agent274",
+      "file": "agent_274.py",
+      "strategy": "trend",
+      "risk": "high"
+    },
+    {
+      "id": 275,
+      "name": "Agent275",
+      "file": "agent_275.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 276,
+      "name": "Agent276",
+      "file": "agent_276.py",
+      "strategy": "sniping",
+      "risk": "high"
+    },
+    {
+      "id": 277,
+      "name": "Agent277",
+      "file": "agent_277.py",
+      "strategy": "scalping",
+      "risk": "low"
+    },
+    {
+      "id": 278,
+      "name": "Agent278",
+      "file": "agent_278.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 279,
+      "name": "Agent279",
+      "file": "agent_279.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 280,
+      "name": "Agent280",
+      "file": "agent_280.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 281,
+      "name": "Agent281",
+      "file": "agent_281.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 282,
+      "name": "Agent282",
+      "file": "agent_282.py",
+      "strategy": "sniping",
+      "risk": "low"
+    },
+    {
+      "id": 283,
+      "name": "Agent283",
+      "file": "agent_283.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 284,
+      "name": "Agent284",
+      "file": "agent_284.py",
+      "strategy": "sniping",
+      "risk": "medium"
+    },
+    {
+      "id": 285,
+      "name": "Agent285",
+      "file": "agent_285.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 286,
+      "name": "Agent286",
+      "file": "agent_286.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 287,
+      "name": "Agent287",
+      "file": "agent_287.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    },
+    {
+      "id": 288,
+      "name": "Agent288",
+      "file": "agent_288.py",
+      "strategy": "scalping",
+      "risk": "high"
+    },
+    {
+      "id": 289,
+      "name": "Agent289",
+      "file": "agent_289.py",
+      "strategy": "hedge",
+      "risk": "low"
+    },
+    {
+      "id": 290,
+      "name": "Agent290",
+      "file": "agent_290.py",
+      "strategy": "trend",
+      "risk": "medium"
+    },
+    {
+      "id": 291,
+      "name": "Agent291",
+      "file": "agent_291.py",
+      "strategy": "neutral",
+      "risk": "low"
+    },
+    {
+      "id": 292,
+      "name": "Agent292",
+      "file": "agent_292.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 293,
+      "name": "Agent293",
+      "file": "agent_293.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 294,
+      "name": "Agent294",
+      "file": "agent_294.py",
+      "strategy": "neutral",
+      "risk": "medium"
+    },
+    {
+      "id": 295,
+      "name": "Agent295",
+      "file": "agent_295.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 296,
+      "name": "Agent296",
+      "file": "agent_296.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 297,
+      "name": "Agent297",
+      "file": "agent_297.py",
+      "strategy": "trend",
+      "risk": "low"
+    },
+    {
+      "id": 298,
+      "name": "Agent298",
+      "file": "agent_298.py",
+      "strategy": "copy",
+      "risk": "low"
+    },
+    {
+      "id": 299,
+      "name": "Agent299",
+      "file": "agent_299.py",
+      "strategy": "scalping",
+      "risk": "medium"
+    },
+    {
+      "id": 300,
+      "name": "Agent300",
+      "file": "agent_300.py",
+      "strategy": "hedge",
+      "risk": "medium"
+    }
+  ]
+}
