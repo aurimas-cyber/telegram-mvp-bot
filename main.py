@@ -1,4 +1,5 @@
-from bot import run_bot
+
+from core.router import start_bot
 
 if __name__ == "__main__":
-    run_bot()
+    start_bot()
